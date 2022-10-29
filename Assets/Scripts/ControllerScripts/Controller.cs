@@ -5,6 +5,7 @@ using UnityEngine;
 public class Controller : Element
 {
     public PlayerController Tuzik;
+    private doorcontroller _doorcontroller;
 
     [SerializeField] private GameObject prefabTuzik;
     [SerializeField] private GameObject tuzik;

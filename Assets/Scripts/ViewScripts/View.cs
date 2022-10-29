@@ -6,5 +6,5 @@ public class View : Element
 {
    public PlayerView playerView;
    public ButtonView buttonView;
-
+   public doorview _Doorview;
 }

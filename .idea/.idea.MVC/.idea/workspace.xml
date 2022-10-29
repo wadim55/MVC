@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="257ca713-5bde-457b-8009-a90872328073" name="Default Changelist" comment="" />
+    <list default="true" id="257ca713-5bde-457b-8009-a90872328073" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MVC/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MVC/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MVC/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MVC/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ControllerScripts/Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ControllerScripts/Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ViewScripts/View.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ViewScripts/View.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/door/doorview.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/door/doormodel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ModelScripts/PlayerModel.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -20,12 +53,17 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ModelScripts/Model.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ModelScripts/PlayerModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ViewScripts/ButtonView1.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ViewScripts/View.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ViewScripts/ControllerSingleton1.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ControllerScripts/PlayerController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ControllerScripts/Controller.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ViewScripts/PlayerView.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ViewScripts/ButtonView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/door/doormodel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EVENT.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/App/EVENT.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ControllerScripts/Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ViewScripts/View.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/door/doorview.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/door/doorcontroller.cs" />
       </list>
     </option>
   </component>
@@ -73,6 +111,9 @@
       <workItem from="1666686534840" duration="1767000" />
       <workItem from="1666690626993" duration="563000" />
       <workItem from="1666691226141" duration="3736000" />
+      <workItem from="1667042166616" duration="1000" />
+      <workItem from="1667042859033" duration="59000" />
+      <workItem from="1667044414490" duration="3748000" />
     </task>
     <servers />
   </component>
@@ -81,10 +122,25 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1667045571862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1667045571862" />
     <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1666685137060">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
